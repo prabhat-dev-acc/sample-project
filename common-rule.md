@@ -1,0 +1,3 @@
+## This file is supposed to contain common rules that all team should use
+1. Make sure the claude make changes in current project file not globally to sync with the team.
+2. Any developer can create a `my-local/` directory in the project root to store personal development files, notes, or scratch work. This directory is git-ignored and will not be pushed to the repository - it's your personal workspace for things that help you while working on the project.
