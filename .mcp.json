@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Ref": {
+      "type": "http",
+      "url": "https://api.ref.tools/mcp",
+      "headers": {
+        "x-ref-api-key": "ref-6ffdf2d97bcfe73dfe4a"
+      }
+    }
+  }
+}

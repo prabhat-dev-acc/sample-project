@@ -1,0 +1,12 @@
+1. claude.md file, explore as its the claude memory
+2. use /agent to create new agent or run one
+
+
+check them -> 
+0. extra install -> ref mcp server
+1. an mcp that can read latest docs updated ones
+2. Semgrep MCP Server
+3. Puppeteer MCP Server: Web Automation
+Control browsers for scraping, testing, or automating workflows. Navigate pages, take screenshots, and interact with web elements.
+4. check -> https://paper.design/
+
